@@ -12,7 +12,7 @@ public class Lane_ {
             lista.add(id);
             lane_number = lista.indexOf(id);
         }else{
-            System.out.println("Todas las líneas se encuentran ocupadas");
+            System.out.println("TODAS LAS LÍNEAS ESTÁN SIENDO UTILIZADAS");
         }
     }
 

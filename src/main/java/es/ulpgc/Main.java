@@ -20,7 +20,7 @@ public class Main {
         player1Score.playerScore(player1,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,3);
 
         PlayerScore_ player2Score = new PlayerScore_();
-        player2Score.playerScore(player2,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,4);
+        player2Score.playerScore(player2,1,1,0,1,0,1,0,1,1,1,0,1,0,1,0,1,0,1,0,4);
 
         PlayerScore_ player3Score = new PlayerScore_();
         player3Score.playerScore(player3,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,5);

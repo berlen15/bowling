@@ -59,7 +59,6 @@ public class PlayerScoreTest_ {
 
     @Test
     public void given_a_strike_followed_by_roll_should_have_two_frames_with_null_score() {
-
         assertEquals(playerScore(10, 2).frames().size(), 2);
         assertEquals(playerScore(10, 2).frame(0).score(), null);
         assertEquals(playerScore(10, 2).frame(1).score(), null);

@@ -87,6 +87,7 @@ public class PlayerScore_ {
 
         public boolean isStrike() {
             return roll(index) == 10;
+
         }
     }
 

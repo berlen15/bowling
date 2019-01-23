@@ -16,7 +16,7 @@ public class display_ {
         System.out.println("----------------------------------------------");
 
         for (Player_ p : players) {
-            System.out.print("Jugador: "+p.getName() + " >>> ");
+            System.out.print("Jugador: "+p.getName() + " >>>> ");
             System.out.println("Puntuación obtenida: ");
             for(int i=0;i<scorePlayer.size();i++) {
                 if(p.getName() == scorePlayer.get(i).player.getName()){

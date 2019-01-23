@@ -25,7 +25,7 @@ public class DisplayTest_ {
 
         pepeScore.playerScore(pepe,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,3);
         andreaScore.playerScore(andrea,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,4);
-        federicoScore.playerScore(federico,1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,1,0,5);
+        federicoScore.playerScore(federico,1,1,0,1,0,1,0,1,0,1,0,1,3,1,0,1,0,1,0,5);
 
        players = new ArrayList<>();
 

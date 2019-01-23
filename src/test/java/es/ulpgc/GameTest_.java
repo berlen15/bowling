@@ -32,13 +32,7 @@ public class GameTest_ {
 
     @Test
     public void new_game_should_have_players() {
-        //assertNotEquals(game1.getPlayers().size(), 0);
-        //assertEquals(2,game1.getPlayers().size());
-
         assertNotEquals(players.size(),0);
-
-
-
     }
 
     @Test

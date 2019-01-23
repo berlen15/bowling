@@ -9,6 +9,7 @@ import java.io.PrintStream;
 
 public class DataBase_ {
     public String Database(Game_ game){
+
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
         String jsonGame = gson.toJson(game);
         PrintStream file = null;

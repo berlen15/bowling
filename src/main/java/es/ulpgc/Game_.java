@@ -19,6 +19,7 @@ public class Game_ {
     }
 
     public int getId() {
+
         return this.id1;
     }
 
