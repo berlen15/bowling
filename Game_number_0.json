@@ -1,0 +1,26 @@
+{
+  "players": [
+    {
+      "name": "David",
+      "score": 0,
+      "frames": 10
+    },
+    {
+      "name": "Marta",
+      "score": 0,
+      "frames": 10
+    },
+    {
+      "name": "Marcos",
+      "score": 0,
+      "frames": 10
+    }
+  ],
+  "id1": 0,
+  "lane": {
+    "lista": [
+      0
+    ],
+    "lane_number": 0
+  }
+}
